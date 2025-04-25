@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abelgeo/Bajaj_Intern/static/css/main.5b7a3c3f.css",
+    "main.js": "/Abelgeo/Bajaj_Intern/static/js/main.eeb31917.js",
+    "static/js/453.2ef831ac.chunk.js": "/Abelgeo/Bajaj_Intern/static/js/453.2ef831ac.chunk.js",
+    "index.html": "/Abelgeo/Bajaj_Intern/index.html",
+    "main.5b7a3c3f.css.map": "/Abelgeo/Bajaj_Intern/static/css/main.5b7a3c3f.css.map",
+    "main.eeb31917.js.map": "/Abelgeo/Bajaj_Intern/static/js/main.eeb31917.js.map",
+    "453.2ef831ac.chunk.js.map": "/Abelgeo/Bajaj_Intern/static/js/453.2ef831ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7a3c3f.css",
+    "static/js/main.eeb31917.js"
+  ]
+}
